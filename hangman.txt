@@ -1,0 +1,14 @@
+Welcome to my repository for hangman!
+
+this project started as a learning tool for Python 3.X. I had to take theoretical knowledge
+I obtained from Udemy Python courses and try to create something "usefull". The idea is
+to create a fully forking hangman game with GUI using Tkinter. You can read about particual 
+versions bellow.
+
+hangman 0.1
+
+ - Rudimentary software. The game is comprised mainly of if/for and while loops.
+ - no GUI
+ - no use of classes
+ - can play with any -> picks a random word from the given list
+ - dispalys board (showing already opened letters)
